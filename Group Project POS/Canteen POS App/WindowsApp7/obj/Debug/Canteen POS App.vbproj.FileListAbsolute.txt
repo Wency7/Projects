@@ -1,0 +1,41 @@
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.pdb
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\WindowsApp7.exe
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\WindowsApp7.pdb
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\WindowsApp7.xml
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.CanteenPOS.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.LoginForm.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.Menu.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.PayForm.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.ManagementReport.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.ViewTransactions.resources
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\Canteen POS App.vbproj.GenerateResource.Cache
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.exe
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.xml
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\WindowsApp7.pdb
+E:\Drive\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\Canteen POS App.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\SJP-PointofSale.exe.config
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\SJP-PointofSale.exe
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\SJP-PointofSale.pdb
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\SJP-PointofSale.xml
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\Canteen POS App.vbprojAssemblyReference.cache
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.AboutUs.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.CanteenPOS.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.LoginForm.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.Menu.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.Resources.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.PayForm.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.TransactionDetails.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.ManagementReport.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\POS.ViewTransactions.resources
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\Canteen POS App.vbproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\Canteen POS App.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\Canteen POS App.vbproj.CopyComplete
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\SJP-PointofSale.exe
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\SJP-PointofSale.xml
+C:\Users\Acer\Downloads\Canteen Point of Sale\Group Project POS\Canteen POS App\WindowsApp7\obj\Debug\SJP-PointofSale.pdb

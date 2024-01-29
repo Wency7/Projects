@@ -1,0 +1,44 @@
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\Group App.vbprojAssemblyReference.cache
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.LoginForm.resources
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\Group App.vbproj.GenerateResource.cache
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\Group App.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\SERVER\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\System.Data.SQLite.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\Group App.vbprojAssemblyReference.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\WindowsApp7.LoginForm.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\Group App.vbproj.GenerateResource.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\Group App.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\Group App.vbproj.CopyComplete
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group App\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\Debug\System.Data.SQLite.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\Group App.vbprojAssemblyReference.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\WindowsApp7.LoginForm.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\WindowsApp7.Menu.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\Group App.vbproj.GenerateResource.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\Group App.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\Group App.vbproj.CopyComplete
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\Debug\WindowsApp7.pdb

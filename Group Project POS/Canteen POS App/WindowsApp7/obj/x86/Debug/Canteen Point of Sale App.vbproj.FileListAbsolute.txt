@@ -1,0 +1,4 @@
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\x86\Debug\Canteen Point of Sale App.vbprojAssemblyReference.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\x86\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\x86\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Canteen POS App\WindowsApp7\obj\x86\Debug\WindowsApp7.pdb

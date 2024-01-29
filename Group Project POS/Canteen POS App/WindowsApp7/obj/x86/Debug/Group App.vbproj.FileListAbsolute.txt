@@ -1,0 +1,14 @@
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\x86\Debug\WindowsApp7.exe.config
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\x86\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\x86\Debug\WindowsApp7.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\bin\x86\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.LoginForm.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.Menu.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.Resources.resources
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\Group App.vbproj.GenerateResource.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\Group App.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.exe
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.xml
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.pdb
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\Group App.vbprojAssemblyReference.cache
+C:\Users\SERVER\Documents\Visual Studio 2019\Group Project POS\Group App\WindowsApp7\obj\x86\Debug\WindowsApp7.CanteenPOS.resources
